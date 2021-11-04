@@ -1,3 +1,4 @@
 alias pas='sudo pacman -S'
+alias pau='sudo pacman -Syu'
 alias gs='git status'
 alias gi='git init'
